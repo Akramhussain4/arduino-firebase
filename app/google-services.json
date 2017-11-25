@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "840063463685",
+    "firebase_url": "https://tagandfind-a98cc.firebaseio.com",
+    "project_id": "tagandfind-a98cc",
+    "storage_bucket": "tagandfind-a98cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840063463685:android:c777b171e6952b45",
+        "android_client_info": {
+          "package_name": "com.hussain.passengerconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840063463685-e6jji7c4av03hqmfbckkpc5nh11du6r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hussain.passengerconnect",
+            "certificate_hash": "f8ae35c8cecfc0bba2cb44392e09674b829fce15"
+          }
+        },
+        {
+          "client_id": "840063463685-ca9c27q6lgank31m7s91l2hqkbra9u8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN87rjIIvqGyQ_cVexe2KSJ5oQV5dc95w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840063463685-ca9c27q6lgank31m7s91l2hqkbra9u8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
